@@ -1,0 +1,38 @@
+/* src/components/Portfolio.css */
+.portfolio {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-image: url('../images/background-portfolio.jpg');
+    background-size: cover;
+    color: white;
+  }
+  
+  .portfolio h2 {
+    margin-bottom: 20px;
+  }
+  
+  .portfolio ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .portfolio li {
+    margin-bottom: 10px;
+  }
+  
+  .portfolio p {
+    margin-top: 10px;
+  }
+  
+  .portfolio a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .portfolio a:hover {
+    text-decoration: underline;
+  }
+  

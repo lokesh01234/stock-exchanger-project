@@ -1,0 +1,50 @@
+/* src/components/Login.css */
+.login {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-image: url('../images/background-login.jpg');
+    background-size: cover;
+    color: white;
+  }
+  
+  .login h2 {
+    margin-bottom: 20px;
+  }
+  
+  .login input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .login button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .login button:hover {
+    background-color: #45a049;
+  }
+  
+  .login p {
+    margin-top: 10px;
+    color: #fff;
+  }
+  
+  .login a {
+    color: #4caf50;
+    text-decoration: none;
+  }
+  
+  .login a:hover {
+    text-decoration: underline;
+  }
+  
